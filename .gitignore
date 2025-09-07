@@ -1,0 +1,14 @@
+# Ignore generated APKs
+*.apk
+*.aab
+
+# Specifically ignore debug APK
+build/outputs/apk/debug/app-debug.apk
+
+# Build outputs (recommended for Flutter/Android)
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+.pub/

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+    <string name="app_name">plantcare</string>
+    <string name="facebook_app_id">707160041912269</string>
+    <string name="fb_login_protocol_scheme">fb707160041912269</string>
+    <string name="facebook_client_token">154f06ffd2ee774a88ffc1b5ee43f539</string>
+
+</resources>
